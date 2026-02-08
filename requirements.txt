@@ -1,0 +1,5 @@
+# Python dependencies for ZATO-vita scripts
+# Install with: pip install -r requirements.txt
+
+# Image processing library
+Pillow>=9.0.0
