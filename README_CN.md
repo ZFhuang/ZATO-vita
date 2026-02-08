@@ -1,5 +1,9 @@
 # Z.A.T.O. // 我爱这世界及其中的一切 - PS Vita 移植版
 
+[EN](README.md)
+
+![Screenshot](ScreenShot.jpg)
+
 Z.A.T.O. // I Love the World and Everything In It 的 PS Vita 移植脚本。
 
 ## 依赖项

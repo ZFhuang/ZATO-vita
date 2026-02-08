@@ -1,5 +1,9 @@
 # Z.A.T.O. // I Love the World and Everything In It - PS Vita Port
 
+[中文版](README_CN.md)
+
+![Screenshot](ScreenShot.jpg)
+
 PS Vita porting scripts for Z.A.T.O. // I Love the World and Everything In It.
 
 ## Dependencies
