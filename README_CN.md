@@ -47,7 +47,7 @@ python scripts_for_vita/run_compressed.py
 
 ### 第三步：将优化后的文件复制到 Vita
 
-1. 下载 VPK 文件并安装到你的 PS Vita
+1. 下载 [VPK](https://github.com/ZFhuang/ZATO-vita/releases/tag/v01_00) 文件并安装到你的 PS Vita
 2. 将**优化后的** `game/` 文件夹（刚刚由脚本处理的）复制到 `ux0:app/ZATO01986/`
 3. 在 Vita 上运行 Z.A.T.O（首次启动可能需要 5-10 分钟）
 4. Have fun!

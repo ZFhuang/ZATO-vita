@@ -47,7 +47,7 @@ In addition to Option 2, this performs lossy compression on images and audio to 
 
 ### Step 3: Copy Optimized Files to Vita
 
-1. Download the VPK file and install it on your PS Vita
+1. Download the [VPK](https://github.com/ZFhuang/ZATO-vita/releases/tag/v01_00) file and install it on your PS Vita
 2. Copy the **optimized** `game/` folder (just processed by the script) to `ux0:app/ZATO01986/`
 3. Run Z.A.T.O on your Vita (first launch may take 5-10 minutes)
 4. Have fun!
