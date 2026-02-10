@@ -16,7 +16,7 @@ Z.A.T.O. // I Love the World and Everything In It 的 PS Vita 移植脚本。
 
 ### 第一步：在 PC 上准备游戏文件
 
-1. 在 Steam 上安装 [Z.A.T.O. // I Love the World and Everything In It](https://store.steampowered.com/app/2889740/ZATO__I_Love_the_World_and_Everything_In_It/)，这是一个非常棒的免费视觉小说游戏，时长约4个小时。
+1. 在 Steam 上安装 [Z.A.T.O. // I Love the World and Everything In It](https://store.steampowered.com/app/4122860/ZATO__I_Love_the_World_and_Everything_In_It/)，这是一个非常棒的免费视觉小说游戏，时长约4个小时。
 2. 如果你需要翻译，请自行在steam或其他地方寻找合适的翻译补丁并按要求安装。注意：本移植不保证翻译可以正常运行，但我个人测试时使用的中文翻译补丁运行基本正常，希望其他语言的补丁也可以正常进行。
 3. 在 Steam 库中右键点击游戏，选择 `管理 -> 浏览本地文件`。
 4. 将 Steam 游戏文件夹中的`game/`复制到此仓库的根目录（包含 `scripts_for_vita/` 的文件夹）。
