@@ -16,7 +16,7 @@ PS Vita porting scripts for Z.A.T.O. // I Love the World and Everything In It.
 
 ### Step 1: Prepare Game Files on PC
 
-1. Install [Z.A.T.O. // I Love the World and Everything In It](https://store.steampowered.com/app/2889740/ZATO__I_Love_the_World_and_Everything_In_It/) on Steam. It's an excellent free visual novel game with about 4 hours of gameplay.
+1. Install [Z.A.T.O. // I Love the World and Everything In It](https://store.steampowered.com/app/4122860/ZATO__I_Love_the_World_and_Everything_In_It/) on Steam. It's an excellent free visual novel game with about 4 hours of gameplay.
 2. If you need a translation, please find a suitable translation patch on Steam or elsewhere and install it as required. Note: This port does not guarantee that translations will work correctly, but the Chinese translation patch I tested worked fine. Hopefully patches in other languages will work as well.
 3. Right-click the game in your Steam library and select `Manage -> Browse local files`.
 4. Copy the `game/` folder from your Steam game directory to the root of this repository (the folder containing `scripts_for_vita/`).
