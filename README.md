@@ -155,7 +155,7 @@ Generated files:
 
 ## Credits
 
-- [Z.A.T.O. // I Love the World and Everything In It](https://store.steampowered.com/app/2889740/ZATO__I_Love_the_World_and_Everything_In_It/): I love this game
+- [Z.A.T.O. // I Love the World and Everything In It](https://store.steampowered.com/app/4122860/ZATO__I_Love_the_World_and_Everything_In_It/): I love this game
 - [Ren'Py PSVita](https://github.com/SonicMastr/renpy-vita): Thanks to this, I could port this game to Vita
 - [RenPy-Vita-8](https://github.com/Grimiku/RenPy-Vita-8): Thanks to this, Python3 Ren'Py games can be successfully ported
 - [Kimi K2.5](https://www.kimi.com/blog/kimi-k2-5.html): I used this LLM to write the code and documentation for this repository
